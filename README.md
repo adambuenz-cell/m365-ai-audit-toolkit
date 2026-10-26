@@ -1,6 +1,6 @@
-# Microsoft 365 AI Config Snapshot
+# Microsoft 365 AI Internal Audit Toolkit
 
-A checklist for a **Microsoft 365 administrator** to review AI-related configuration in their own tenant: Copilot, agents, Copilot Studio, third-party AI apps, and the data, identity and logging controls around them. Each check is mapped to **NIST AI RMF 1.0**, **ISO/IEC 42001:2023** and the **EU AI Act**.
+A checklist for a Microsoft 365 administrator to review AI-related configuration in their own tenant: Copilot, agents, Copilot Studio, third-party AI apps, and the data, identity and logging controls around them. Each check is mapped to NIST AI RMF 1.0, ISO/IEC 42001:2023 and the EU AI Act.
 
 It's written for someone who already knows the organisation's environment and policies. The admin judges each setting against what the organisation has decided, so the sheet doesn't prescribe expected values. The result is one piece of the AI governance picture: what's configured today. It isn't the whole picture (see [What this does not cover](#what-this-does-not-cover)).
 
@@ -91,7 +91,7 @@ Framework coverage reflects this: the 70 checks map to 23 of 72 NIST AI RMF subc
 
 ## About the author
 
-Created by Adam Buenz, AIGP (IAPP Artificial Intelligence Governance Professional). The checks and framework mappings reflect the author's professional judgement and are shared to help administrators and governance teams. They are not legal advice.
+Created by Adam Buenz, AIGP. The checks and framework mappings reflect the author's professional judgement and are shared to help administrators and governance teams. They are not legal advice.
 
 ## Licence
 
